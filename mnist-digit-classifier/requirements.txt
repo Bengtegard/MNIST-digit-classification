@@ -1,0 +1,10 @@
+matplotlib==3.10.0
+numpy==2.2.2
+pandas==2.2.3
+pillow==11.1.0
+scikit-learn==1.6.1
+scipy==1.15.1
+streamlit==1.42.0
+streamlit-drawable-canvas==0.9.3
+xgboost==2.1.4
+
