@@ -54,7 +54,7 @@ def main():
         background_color="black",
         width=CANVAS_SIZE,
         height=CANVAS_SIZE,
-        drawing_mode="freedraw" if mode else "transform",
+        drawing_mode="freedraw",
         key="canvas"
     )
 
