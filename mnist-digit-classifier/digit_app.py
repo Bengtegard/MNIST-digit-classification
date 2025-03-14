@@ -47,9 +47,6 @@ def main():
     st.title("Handwritten Digit Classifier")
     st.write("🖍 Draw a digit below (0-9) and let the model predict it!")
 
-    # create a drawing canvas for user to draw the digit
-    mode = st.checkbox("Draw (or Delete)?", True)
-
     canvas_result = st_canvas(
         fill_color="black",
         stroke_width=26,
