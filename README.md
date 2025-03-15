@@ -5,6 +5,11 @@
 This project implements a handwritten digit recognition system using **XGBoost** trained on the **MNIST dataset**. The MNIST dataset consists of 70,000 grayscale images of handwritten digits (0-9), each **28x28 pixels** in size.\
 Instead of using **Deep Learning (CNNs)**, this project leverages **XGBoost**, a powerful gradient boosting algorithm, to achieve **98.58% accuracy** on the test set.
 
+### **Demo**
+
+![image](https://github.com/user-attachments/assets/e44db4e1-f537-4f84-9ab5-61f01d4ddea6)
+
+
 #### **Dataset**
 
 - **MNIST Dataset**: A collection of handwritten digits from **0-9**.
