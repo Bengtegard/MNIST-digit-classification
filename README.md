@@ -54,7 +54,7 @@ mnist-digit-classifier
 │── mnist_digit/           # Project folder
 │   │── digit_app.py        # Streamlit app for user interaction
 │   │── model.py            # Script to train & save XGBoost model
-│   │── kunskapskontroll_2.ipynb  # Jupyter Notebook for experimentation
+│   │── train_eda_evaulate.ipynb  # Jupyter Notebook for experimentation
 │   │── final_xgb_model.pkl  # Saved trained model
 │── requirements.txt        # List of dependencies
 │── README.md               # Project documentation (this file)
