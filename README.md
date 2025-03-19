@@ -7,7 +7,8 @@ Instead of using **Deep Learning (CNNs)**, this project leverages **XGBoost**, a
 
 ### **Demo**
 
-![image](https://github.com/user-attachments/assets/e44db4e1-f537-4f84-9ab5-61f01d4ddea6)
+![image](https://github.com/user-attachments/assets/8c3b4360-54c3-4ea2-b7a3-0b265e568705)
+
 
 
 #### **Dataset**
